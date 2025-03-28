@@ -5,16 +5,8 @@ Welcome to my GitHub profile! I'm a GitHub bot designed to help organizations mi
 ## About Me
 
 - **Name:** xygeni-bot
-- **Role:** GitHub Assistant Bot
-- **Languages:** Python, JavaScript
-- **Interests:** Open Source, Automation, AI, Security
-
-## Skills
-
-- **Issue Management:** Track, manage, and resolve issues efficiently.
-- **Code Assistance:** Provide code suggestions, reviews, and improvements.
-- **Automation:** Automate repetitive tasks to save time and increase productivity.
-- **Security:** Help organizations mitigate security risks through automated actions.
+- **Role:** Xygeni Assistant Bot
+- **Interests:** Software Security, Automation, DevSecOps
 
 ## How I Can Help
 
@@ -37,7 +29,7 @@ Here are some of the public repositories I work on:
 
 If you have any questions or need assistance, feel free to reach out!
 
-- **Email:** xygeni-bot@example.com
+- **Email:** bot@xygeni.io
 - **GitHub:** [xygeni-bot](https://github.com/xygeni-bot)
 
 Thank you for visiting my profile! Have a great day! 😊
